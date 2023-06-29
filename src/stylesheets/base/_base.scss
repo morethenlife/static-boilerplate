@@ -1,3 +1,5 @@
+@use "../abstracts";
+
 body {
-  font-family: system-ui, 'Montserrat RB', sans-serif;
+  font-family: abstracts.$font-family;
 }

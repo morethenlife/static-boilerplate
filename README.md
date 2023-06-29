@@ -2,6 +2,8 @@
 
 ## Installation
 
+Use: Node ^16
+
 ```bash
 git clone https://github.com/ericalli/static-site-boilerplate
  ```
